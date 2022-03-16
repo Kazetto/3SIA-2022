@@ -1,2 +1,2 @@
 # 3SIA-2022
-# Manutenção pelo Projeto via GitDesktop
+# Manutenção pelo Projeto via GitCMD
